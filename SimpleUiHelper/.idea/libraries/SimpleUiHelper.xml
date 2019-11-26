@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SimpleUiHelper">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/SimpleUiHelper_jar/SimpleUiHelper.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

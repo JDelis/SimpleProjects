@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SimpleUiHelper:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SimpleUiHelper_jar</output-path>
+    <root id="archive" name="SimpleUiHelper.jar">
+      <element id="module-output" name="SimpleUiHelper" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/out/artifacts/SimpleUiHelper_jar/SimpleUiHelper.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
