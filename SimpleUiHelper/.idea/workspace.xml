@@ -30,8 +30,8 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
@@ -53,7 +53,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.main">
+    <configuration name="main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.SimpleUiHelper.main" />
+      <module name="SimpleUiHelper" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.SimpleUiHelper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="test.main" />
       <module name="SimpleUiHelper" />
@@ -70,6 +83,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.main" />
+        <item itemvalue="Application.main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -84,7 +98,8 @@
       <option name="presentableId" value="Default" />
       <updated>1574803127643</updated>
       <workItem from="1574803136411" duration="2652000" />
-      <workItem from="1574805967720" duration="2703000" />
+      <workItem from="1574805967720" duration="7846000" />
+      <workItem from="1574852202322" duration="2214000" />
     </task>
     <servers />
   </component>
@@ -96,7 +111,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

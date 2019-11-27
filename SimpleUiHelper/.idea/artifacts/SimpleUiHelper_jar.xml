@@ -3,7 +3,7 @@
     <output-path>$PROJECT_DIR$/out/artifacts/SimpleUiHelper_jar</output-path>
     <root id="archive" name="SimpleUiHelper.jar">
       <element id="module-output" name="SimpleUiHelper" />
-      <element id="extracted-dir" path="$PROJECT_DIR$/out/artifacts/SimpleUiHelper_jar/SimpleUiHelper.jar" path-in-jar="/" />
+      <element id="library" level="project" name="SimpleUiHelper" />
     </root>
   </artifact>
 </component>
